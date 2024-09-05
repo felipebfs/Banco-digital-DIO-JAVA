@@ -6,7 +6,7 @@ Desenvolveu-se um programa tendo em vista o conhecimento no domínio bancário p
 
 ---  
 
-## ⚛Síntese de conceitos fundamentais da POO  
+## Síntese de conceitos fundamentais da POO  
 
 ### Abstração
 <p align="justify">
